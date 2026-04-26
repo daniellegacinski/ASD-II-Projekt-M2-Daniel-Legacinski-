@@ -1,0 +1,16 @@
+Etap: 1
+Klucz: Daniel-2026
+Parametr: 7
+Rundy: 2
+
+Korelacja pozioma przed: 0.8809
+Korelacja pozioma po:    0.0237
+Korelacja pionowa przed: 0.8766
+Korelacja pionowa po:    0.4312
+
+Porownanie oryginal vs odtworzony:
+Identyczny: False
+MSE: 23998.1201
+MAE: 117.7417
+Max diff: 235
+Uwaga: odtwarzanie wykonane blednym kluczem.

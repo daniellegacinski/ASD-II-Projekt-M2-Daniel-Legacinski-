@@ -1,0 +1,4 @@
+numpy
+pillow
+matplotlib
+python-docx
